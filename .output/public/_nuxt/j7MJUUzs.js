@@ -1,0 +1,1 @@
+import{_ as a,c as n,a as e,o}from"#entry";const s={},r={class:"container"};function l(c,t){return o(),n("div",r,[...t[0]||(t[0]=[e("h1",null,"About Page",-1),e("p",null,"This page demonstrates file-based routing in Nuxt 4.",-1),e("p",null,"You can navigate between pages without full page reloads.",-1)])])}const i=a(s,[["render",l]]);export{i as default};
